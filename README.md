@@ -38,25 +38,25 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
 ## Recommendations
 After analyzing the data, the recommended top three cities for new store openings are:
 
-1. Pune: Best immediate opportunity
+1. **Pune: Best immediate opportunity**
 * Highest sales: ₹1.26M
 * Highest average sales per customer: ₹24,198
 * Reasonable rent: ₹15,300
 * Strong sales-to-rent performance.
 
-2. Chennai: Best balance
+2. **Chennai: Best balance**
 * Sales of ₹944K
 * Large estimated coffee-consumer market: 2.78M
 * Rent of ₹17,100
 * Good combination of demand, sales and operating cost.
 
-3. Bangalore: Strong growth opportunity
+3. **Bangalore: Strong growth opportunity**
 * Sales of ₹860K
 * Largest estimated coffee-consumer market among the three: 3.08M
 * Average sales/customer: ₹22,054
 * Main disadvantage: relatively high rent of ₹29,700.
 
-## Other important insights
+## Other Key insights
 * Q4 2023 revenue: ₹1.96M.
 * Top-selling products were Cold Brew Coffee Pack, Ground Espresso Coffee, Instant Coffee Powder, and Coffee Beans.
 * September–December 2023 showed a major acceleration in sales, particularly September (+169.5%) and October (+59.4%).
