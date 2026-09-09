@@ -1,7 +1,5 @@
 # Monday Coffee Expansion SQL Project
 
-![Company Logo](https://github.com/najirh/Monday-Coffee-Expansion-Project-P8/blob/main/1.png)
-
 ## Objective
 The goal of this project is to analyze the sales data of Monday Coffee, a company that has been selling its products online since January 2023, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
 
@@ -40,19 +38,28 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
 ## Recommendations
 After analyzing the data, the recommended top three cities for new store openings are:
 
-**City 1: Pune**  
-1. Average rent per customer is very low.  
-2. Highest total revenue.  
-3. Average sales per customer is also high.
+1. Pune: Best immediate opportunity
+* Highest sales: ₹1.26M
+* Highest average sales per customer: ₹24,198
+* Reasonable rent: ₹15,300
+* Strong sales-to-rent performance.
 
-**City 2: Delhi**  
-1. Highest estimated coffee consumers at 7.7 million.  
-2. Highest total number of customers, which is 68.  
-3. Average rent per customer is 330 (still under 500).
+2. Chennai: Best balance
+* Sales of ₹944K
+* Large estimated coffee-consumer market: 2.78M
+* Rent of ₹17,100
+* Good combination of demand, sales and operating cost.
 
-**City 3: Jaipur**  
-1. Highest number of customers, which is 69.  
-2. Average rent per customer is very low at 156.  
-3. Average sales per customer is better at 11.6k.
+3. Bangalore: Strong growth opportunity
+* Sales of ₹860K
+* Largest estimated coffee-consumer market among the three: 3.08M
+* Average sales/customer: ₹22,054
+* Main disadvantage: relatively high rent of ₹29,700.
 
+## Other important insights
+* Q4 2023 revenue: ₹1.96M.
+* Top-selling products were Cold Brew Coffee Pack, Ground Espresso Coffee, Instant Coffee Powder, and Coffee Beans.
+* September–December 2023 showed a major acceleration in sales, particularly September (+169.5%) and October (+59.4%).
+* Delhi is an interesting future opportunity: it has an estimated 7.75M coffee consumers, but sales were only ₹750K, suggesting potentially significant untapped demand.
+* Jaipur also performed efficiently relative to rent.
 ---
